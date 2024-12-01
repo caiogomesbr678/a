@@ -1,5 +1,5 @@
 # Welcome to your Expo app 👋
-
+![Captura de tela 2024-12-01 104037](https://github.com/user-attachments/assets/b23322a3-f75d-44b7-8364-d73d5e36ec87)
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
